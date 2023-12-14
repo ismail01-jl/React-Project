@@ -1,0 +1,74 @@
+{
+  "novels": [
+    {
+      "id": 2,
+      "title": "One Piece",
+      "synopsis": "Monkey. D. Luffy refuses to let anyone or anything stand in the way of his quest to become the king of all pirates. With a course charted for the treacherous waters of the Grand Line and beyond, this is one captain who'll never give up until he's claimed the greatest treasure on Earth: the Legendary One Piece!.",
+      "author": "Edchiro GODA",
+      "pub_year": 1997,
+      "pages": 1100,
+      "cover": "images/One_Piece_Cover.jpeg",
+      "cost": 1000.33
+    },
+    {
+      "id": 3,
+      "title": "Berserk",
+      "synopsis": "Berserk (Japanese: ベルセルク, Hepburn: Beruseruku) is a Japanese manga series written and illustrated by Kentaro Miura. Set in a medieval Europe-inspired dark fantasy world, the story centers on the characters of Guts, a lone swordsman, and Griffith, the leader of a mercenary band called the Band of the Hawk. ",
+      "author": "Miura Kentarou",
+      "pub_year": 1996,
+      "pages": 375,
+      "cover": "images/Berserk_Cover.jpeg",
+      "cost": 177.07
+    },
+    {
+      "title": "Solo Leveling",
+      "synopsis": "Solo Leveling, also alternatively translated as Only I Level Up (Korean: 나 혼자만 레벨업; RR: Na Honjaman Rebeleop), is a South Korean web novel written by Chugong. It was serialized in Kakao's digital comic and fiction platform KakaoPage beginning on July 25, 2016.",
+      "author": "jang Sung-rak",
+      "pub_year": 2016,
+      "pages": 200,
+      "cover": "images/Solo_Cover.jpeg",
+      "cost": 102.24,
+      "id": 6
+    },
+    {
+      "title": "Super Man",
+      "synopsis": "Superman is an ongoing American comic book series featuring the DC Comics superhero Superman as its protagonist. Superman began as one of several anthology features in the National Periodical Publications comic book Action Comics #1 in June 1938.",
+      "author": "Ava Reid",
+      "pub_year": 1938,
+      "pages": 983,
+      "cover": "images/Super_man_Cover.jpg",
+      "cost": 72.99,
+      "id": 11
+    },
+    {
+      "title": "Spider man",
+      "synopsis": "Spider-Man is a superhero appearing in American comic books published by Marvel Comics. Created by writer-editor Stan Lee and artist Steve Ditko, he first appeared in the anthology comic book Amazing Fantasy #15 (August 1962) in the Silver Age of Comic Books.",
+      "author": "Kell Woods",
+      "pub_year": 1963,
+      "pages": 577,
+      "cover": "images/Spiderman_Cover.jpg",
+      "cost": 44.99,
+      "id": 12
+    },
+    {
+      "title": "Barbie",
+      "synopsis": "Barbie, a fashion doll manufactured by American toy and entertainment company Mattel and debuted on March 9, 1959, has been featured in a media franchise predominantly consisting of a film series and media formats across technologies like television and the Internet.",
+      "author": "S. Jae-Jones",
+      "pub_year": 1956,
+      "pages": 256,
+      "cover": "images/Barbie_Cover.jpeg",
+      "cost": 11.99,
+      "id": 13
+    },
+    {
+      "id": 14,
+      "title": "The Flash",
+      "synopsis": "The Flash is an ongoing American comic book series featuring the DC Comics superhero of the same name.",
+      "author": "DC",
+      "pub_year": 1960,
+      "pages": 700,
+      "cover": "images/Flash_cover.jpeg",
+      "cost": 97
+    }
+  ]
+}
